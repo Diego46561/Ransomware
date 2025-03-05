@@ -25,6 +25,9 @@ Este proyecto es una simulación de ransomware con fines educativos y de investi
   git clone https://github.com/tu_usuario/simulador-ransomware.git
 ```
 
+![image](https://github.com/user-attachments/assets/57749af3-b201-40ee-be4a-82e2a6e00357)
+
+
 2. Accede al directorio del proyecto:  
 ```
 cd simulador-ransomware
