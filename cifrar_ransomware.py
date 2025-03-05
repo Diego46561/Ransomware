@@ -66,7 +66,7 @@ def mostrar_ventana_rescate():
 
     instruction_text = Text(root, bg="#0d0d0d", fg="#8c8c8c", font=custom_font1, height=2, width=50, bd=0)
     instruction_text.place(x=text_x - 225, y=text_y1 + 70)
-    instruction_text.insert("1.0", "Para ver los archivos que hemos bloqueado, haz clic ")
+    instruction_text.insert("1.0", "       Para ver los archivos que hemos bloqueado, haz clic ")
     instruction_text.insert("end", "AQUÍ", "link")
     instruction_text.insert("end", ".")
     instruction_text.tag_configure("link", foreground="#dc4d4e", underline=True)
